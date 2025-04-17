@@ -1,0 +1,204 @@
+{
+    "message_code": 200,
+    "data": {
+      "key": "",
+      "promotion": {
+        "day": "06",
+        "slider": [
+          {
+            "link": "https://whatsupcrm.in/",
+            "image": "https://localo.com/es/assets/img/definitions/what-is-bot.webp"
+          }
+        ],
+        "title": "Promoción del mes",
+        "code": "aiojcusezycgp7eni3nqfd"
+      },
+      "expired": {
+        "image": "",
+        "title": "Su licencia ha expirado",
+        "description": "¡Haga clic ahora para Comprar Licencia y continuar sin problemas!",
+        "button": {
+          "link": "https://wa.me/59178208309?text=Quiero%20Renovar%20mi%20Licencia",
+          "title": "Renueva tu licencia vencida hoy"
+        }
+      },
+      "default_image": {
+        "default_image_user": "https://whatsupcrm.in/images/logo.png",
+        "default_image_group": "https://whatsupcrm.in/images/logo.png"
+      },
+      "system_icons": {
+        "icon_search": "https://whatsupcrm.in/images/logo.png"
+      },
+      "global": {
+        "color_ligth_primary": "#04d79e",
+        "color_dark_primary": "#04d79e"
+      },
+      "logo": {
+        "data": {
+          "logo_image": "https://whatsupcrm.in/images/logo.png",
+          "logo_link": {
+            "title": "Whatsup CRM",
+            "url": "https://wa.me/59178208309",
+            "target": "https://wa.me/59178208309"
+          }
+        },
+        "style": {
+          "logo_background_ligth": "#ffffff",
+          "logo_background_dark": "#222e35"
+        }
+      },
+      "buttons": {
+        "data": [
+          {
+            "id": "sending_messages",
+            "title": "Transmisiones",
+            "sub_title": "Transmisiones rápidas y de emergencia",
+            "icon": "https://crm.jncrmweb.lat/images/WPro_1.gif",
+            "help": "<p>.</p>"
+          },
+          {
+            "id": "lists",
+            "title": "Pestañas personalizadas",
+            "sub_title": "Combina tus etiquetas y organízate como un profesional",
+            "icon": "https://crm.jncrmweb.lat/images/WPro_2.gif",
+            "help": "<p>.</p>"
+          },
+          {
+            "id": "templates",
+            "title": "Plantillas",
+            "sub_title": "Crea y organiza tus plantillas",
+            "icon": "https://crm.jncrmweb.lat/images/WPro_3.gif",
+            "help": "<p>.</p>"
+          },
+          {
+            "id": "workflow",
+            "title": "ChatBot",
+            "sub_title": "Crea tu flujo de trabajo",
+            "icon": "https://crm.jncrmweb.lat/images/WPro_4.gif",
+            "help": "<p>.</p>"
+          },
+          {
+            "id": "schedule_messages",
+            "title": "Transmisiones programadas",
+            "sub_title": "Agenda todos tus mensajes",
+            "icon": "https://crm.jncrmweb.lat/images/WPro_5.gif",
+            "help": "<p>.</p>"
+          },
+          {
+            "id": "scheduled_shipments",
+            "title": "Notificaciones programadas",
+            "sub_title": "Notificar a un cliente en el futuro",
+            "icon": "https://crm.jncrmweb.lat/images/WPro_6.gif",
+            "help": "<p>.</p>"
+          },
+          {
+            "id": "notes",
+            "title": "Respuestas rápidas",
+            "sub_title": "Respuestas en segundos",
+            "icon": "https://crm.jncrmweb.lat/images/WPro_7.gif",
+            "help": "<p>.</p>"
+          },
+          {
+            "id": "kanban_board",
+            "title": "Funciones",
+            "sub_title": "Importa y exporta contactos, enlaces personalizados y mucho más...",
+            "icon": "https://crm.jncrmweb.lat/images/WPro_10.gif",
+            "help": "<p>.</p>"
+          },
+          {
+            "id": "reminder",
+            "title": "Tablero Kanban",
+            "sub_title": "Organiza a todos tus clientes con esta poderosa herramienta",
+            "icon": "https://crm.jncrmweb.lat/images/WPro_9.gif",
+            "help": "<p>.</p>"
+          },
+          {
+            "id": "functions",
+            "title": "Herramientas",
+            "sub_title": "Conjuntos de funciones gratuitas.",
+            "icon": "https://crm.jncrmweb.lat/images/WPro_11.gif",
+            "help": "<p>.</p>"
+          },
+          {
+            "id": "tools_free",
+            "title": "Usuario",
+            "sub_title": "Tu panel de usuario privado",
+            "icon": "https://crm.jncrmweb.lat/images/WPro_12.gif",
+            "help": "<p>.</p>"
+          }
+        ],
+        "styles": {
+          "btn_background_ligth": "#ffffff",
+          "btn_icon_background_ligth": "#ffffff",
+          "btn_text_ligth": "#04d79e",
+          "btn_background_dark": "#ffffff",
+          "btn_icon_background_dark": "#202c33",
+          "btn_text_dark": "#04d79e"
+        }
+      },
+      "loading": {
+        "loading_image": "https://www.salezrobot.com/images/chelange-robo-img.jpg",
+        "loading_title": "Bienvenido a WACRM",
+        "loading_title_description": "<div style=\"text-align: center;\"><strong>Cargando bibliotecas…</strong>😁<br /><strong>Un momento, terminaremos enseguida.</strong>🙏</div>",
+        "loading_button": "<p>Close</p>"
+      },
+      "table_price": [
+        {
+          "id": 1122,
+          "url": "https://wa.me/59178208309?text=Quiero%20Activar%20mi%20Licencia%20Gratis",
+          "title": "CRM Premium 2 Dias Gratis",
+          "description": "<strong>TODAS LAS FUNCIONALIDADES ACTIVAS</strong>",
+          "features": [
+            "Automatización de mensajes, ",
+            "Mensajería ilimitada, ",
+            "Funcionalidad de etiquetado y segmentación de contactos, ",
+            "Gestión ilimitada de contactos, ",
+            "Historial completo de conversaciones, ",
+            "Informes detallados y análisis, ",
+            "Integración avanzada con WhatsApp, ",
+            "Soporte prioritario por correo electrónico y chat en vivo, & ",
+            "Todas las funciones del plan gratuito"
+          ],
+          "regular_price": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">Bs</span>&nbsp;0.00</bdi></span>",
+          "old_price": null,
+          "currency_symbol": "BS",
+          "subscription_time": "1 MIN",
+          "variations": []
+        },
+        {
+          "id": 1458,
+          "url": "https://wa.me/59178208309?text=Quiero%20Activar%20mi%20Licencia%20PREMIUM",
+          "title": "CRM Premium",
+          "description": "",
+          "features": [
+            "Automatización de mensajes, ",
+            "Mensajería ilimitada, ",
+            "Funcionalidad de etiquetado y segmentación de contactos, ",
+            "Gestión ilimitada de contactos, ",
+            "Historial completo de conversaciones, ",
+            "Informes detallados y análisis, ",
+            "Integración avanzada con WhatsApp, ",
+            "Soporte prioritario por correo electrónico y chat en vivo, & ",
+            "Todas las funciones del plan gratuito"
+          ],
+          "regular_price": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">Bs</span>&nbsp;¡Obtén la oferta ahora!</bdi></span>",
+          "old_price": null,
+          "currency_symbol": "BS",
+          "subscription_time": "1 min",
+          "variations": [
+            {
+              "name": "Plan Mensual",
+              "regular_price": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">Bs</span>&nbsp;50</bdi></span>",
+              "old_price": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">Bs</span>&nbsp;100</bdi></span>"
+            },
+            {
+              "name": "Plan Anual",
+              "regular_price": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">Bs</span>&nbsp;450</bdi></span>",
+              "old_price": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">Bs</span>&nbsp;700</bdi></span>"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
